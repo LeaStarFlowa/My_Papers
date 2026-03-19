@@ -6,7 +6,7 @@
 ## 📄 毕业论文
 点击下方链接可预览或下载我的本科毕业论文：
 
-- [📥 毕业论文 (PDF)](./Paper.pdf)
+- [📥 毕业论文 (PDF)](./undergraduate_thesis.pdf)
 
 ## 🎥 操作演示视频
 系统实际运行流程与效果演示已上传至 Bilibili：
